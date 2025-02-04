@@ -16,10 +16,28 @@ Machine Learning, Blockchain Security, Adversarial Techniques, Privacy and Secur
 
 Education History
 ======
-PH.D., Computer Science, University of Central Florida, Orlando, FL, USA (2021 – Current)
-Advisor: Prof. David Mohaisen. Topic: Blockchain Security and Privacy
-M.SC., Computer Security and Forensic, Technological University Dublin, Dublin, Ireland (2015-2017)
-B.SC., Computer Science, University of Tabuk, Tabuk, Saudi Arabia (2009-2013)
+<h1>Education History</h1>
+
+<h2>Ph.D., Computer Science</h2>
+<ul>
+  <li><strong>University:</strong> University of Central Florida, Orlando, FL, USA</li>
+  <li><strong>Years:</strong> 2021 – Current</li>
+  <li><strong>Advisor:</strong> Prof. David Mohaisen</li>
+  <li><strong>Topic:</strong> Blockchain Security and Privacy</li>
+</ul>
+
+<h2>M.Sc., Computer Security and Forensic</h2>
+<ul>
+  <li><strong>University:</strong> Technological University Dublin, Dublin, Ireland</li>
+  <li><strong>Years:</strong> 2015-2017</li>
+</ul>
+
+<h2>B.Sc., Computer Science</h2>
+<ul>
+  <li><strong>University:</strong> University of Tabuk, Tabuk, Saudi Arabia</li>
+  <li><strong>Years:</strong> 2009-2013</li>
+</ul>
+
 
 Site-wide configuration
 ------
