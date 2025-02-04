@@ -29,10 +29,11 @@ Education
 Professional Experience
 ======
 <ul>
-    <li><span style="color: red;"><strong>2024:</strong></span> Grader for CAP 5150, University of Central Florida</li>
-    <li><span style="color: red;"><strong>2022–2023:</strong></span> Teaching Assistant, University of Central Florida</li>
-    <li><span style="color: red;"><strong>2019 – Current:</strong></span> Lecturer, Prince Sattam Bin Abdulaziz University</li>
-    <li><span style="color: red;"><strong>2018 – 2019:</strong></span> Lecturer, Al-Ghad International Health Sciences Colleges</li>
+    <li><span style="color: #8B0000;"><strong>2024:</strong></span> Grader for CAP 5150, University of Central Florida</li>
+    <li><span style="color: #8B0000;"><strong>2022–2023:</strong></span> Teaching Assistant, University of Central Florida</li>
+    <li><span style="color: #8B0000;"><strong>2019 – Current:</strong></span> Lecturer, Prince Sattam Bin Abdulaziz University</li>
+    <li><span style="color: #8B0000;"><strong>2018 – 2019:</strong></span> Lecturer, Al-Ghad International Health Sciences Colleges</li>
 </ul>
+
 
 
