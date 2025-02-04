@@ -6,7 +6,6 @@ redirect_from:
   - /about/
  - /about.html
 ---
-
 Hi! I am Ahod Alghuried, a PhD Candidate at the University of Central Florida in the Department of Computer Science. I am an experienced researcher in the field of Computer Science with a specific focus on Blockchain Security and Privacy, leveraging Machine Learning techniques. My expertise encompasses adversarial machine learning, fraud detection in blockchain networks, and systematic attack surface analysis. Currently pursuing my PhD at the University of Central Florida, I have also held positions as a lecturer at Prince Sattam Bin Abdulaziz University, contributing to academic and practical advancements in computer security. Through my research and publications, I continue to contribute to the field.
 
 A data-driven personal website
