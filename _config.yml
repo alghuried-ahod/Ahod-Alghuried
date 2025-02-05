@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Ahod Alghuried"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "Phd Candidate, CS"
   location         : #"Earth"
   employer         : "Prince Sattam Bin Abdulaziz University"
   uri              : # URL
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/ahod-alghuried-9815b5ab/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
