@@ -18,7 +18,7 @@ Education
 ======
 
 <p><strong>Ph.D., Computer Science</strong>, University of Central Florida, Orlando, FL, USA (2021 – Current)<br>
-    <span style="margin-left: 10mm;"><span style="color: #8B0000;">Advisor:</span> Prof. David Mohaisen.</span> <span style="margin-left: 20mm;">Topic: Blockchain Security and Privacy</span>
+    <span style="margin-left: 10mm;"><span style="color: #8B0000;"><strong>Advisor:</span> Prof. David Mohaisen.</span> <span style="margin-left: 20mm;">Topic: Blockchain Security and Privacy</span>
 </p>
 
 <p><strong>M.Sc., Computer Security and Forensic</strong>, Technological University Dublin, Ireland (2015-2017)</p>
